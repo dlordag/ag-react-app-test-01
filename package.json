@@ -15,25 +15,25 @@
   },
   "eslintConfig": {
     "env": {
-      "es6" : true
+      "es6": true
     },
     "parserOptions": {
       "ecmaVersion": 6,
       "sourceType": "module",
       "ecmaFeatures": {
-            "jsx": "true"
-        }
-    },    
+        "jsx": "true"
+      }
+    },
     "globals": {
-      "it" : "readable",
-      "fetch" : "readable",
-      "console" : "readable",
-      "URL" : "readable",
-      "navigator" : "readable",
-      "process" : "readable",
-      "window" : "readable",
-      "document" : "readable",
-      "ReactDOM" : "readable"
+      "it": "readable",
+      "fetch": "readable",
+      "console": "readable",
+      "URL": "readable",
+      "navigator": "readable",
+      "process": "readable",
+      "window": "readable",
+      "document": "readable",
+      "ReactDOM": "readable"
     },
     "rules": {
       "semi": "off",
